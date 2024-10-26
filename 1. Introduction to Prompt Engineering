@@ -1,33 +1,53 @@
-What is Prompt Engineering?
+# **Prompt Engineering for Academic Writing**
+
+## 1. Introduction to Prompt Engineering
+
+### What is Prompt Engineering?
 Prompt engineering is the practice of crafting precise and purposeful instructions (known as prompts) to guide large language models (LLMs) or other AI tools toward generating accurate and useful outputs. Unlike standard queries, prompts in prompt engineering are formulated with particular constraints, goals, and contexts to maximize the relevance of the AI’s response.
 
 In an academic context, prompt engineering can save time and enhance productivity by enabling researchers, students, and educators to generate useful content—such as summaries, structured paragraphs, or literature overviews—that aligns closely with academic standards.
 
-Example:
+#### Example
 Consider a prompt asking for a summary of recent research on climate change:
 
-Standard Query: “Summarize climate change research.”
-Engineered Prompt: “Summarize key findings from academic research published between 2020 and 2023 on the causes and effects of climate change, focusing on studies that discuss policy implications and environmental impact.”
+- **Standard Query**: `Summarize climate change research.`
+- **Engineered Prompt**: `Summarize key findings from academic research published between 2020 and 2023 on the causes and effects of climate change, focusing on studies that discuss policy implications and environmental impact.`
+
 The engineered prompt is more specific, aiming for content that’s relevant to recent findings, specific topics, and policy impacts, which are common in academic discussions of climate change.
 
-Role in Academic Writing
+---
+
+### Role in Academic Writing
 In academic writing, prompt engineering serves as a powerful tool to streamline processes, from brainstorming and drafting to synthesizing and structuring complex information. When properly engineered, prompts can help develop sections of research papers, generate literature reviews, produce outlines, or even suggest alternative arguments—all while maintaining an academic tone.
 
-For instance, students or researchers working on a paper might use prompt engineering to:
+Researchers working on a paper might use prompt engineering to:
+- Generate concise summaries of research findings.
+- Formulate topic sentences or thesis statements.
+- Explore multiple perspectives on a single research question.
 
-Generate concise summaries of research findings.
-Formulate topic sentences or thesis statements.
-Explore multiple perspectives on a single research question.
-Example:
+#### Example
 Suppose a student is working on an introduction for a paper on machine learning in cybersecurity. A general prompt might generate a vague introduction, while an engineered prompt can guide the AI toward more structured and relevant content:
 
-General Prompt: “Write an introduction about machine learning in cybersecurity.”
-Engineered Prompt: “Write a 150-word introduction that describes the role of machine learning in enhancing cybersecurity, specifically focusing on anomaly detection and predictive analysis, while emphasizing recent advancements and challenges.”
+- **General Prompt**: `Write an introduction about machine learning in cybersecurity.`
+- **Engineered Prompt**: `Write a 150-word introduction that describes the role of machine learning in enhancing cybersecurity, specifically focusing on anomaly detection and predictive analysis, while emphasizing recent advancements and challenges.`
+
 This specificity helps the AI deliver content aligned with academic expectations, narrowing the scope to essential points relevant to the student’s topic.
 
-Applications Across Disciplines
+---
+
+### Applications Across Disciplines
 Prompt engineering finds applications across numerous academic disciplines, from the humanities to STEM fields. For example, a history student may use prompts to analyze historical documents, while a biology researcher might prompt the AI to generate hypotheses based on recent data.
 
-Humanities Example: In a literature review on 19th-century American literature, a researcher could use prompt engineering to summarize various thematic perspectives, such as “Analyze how themes of freedom and identity are represented in three major works of 19th-century American literature. Compare author viewpoints.”
+#### Examples by Discipline
 
-STEM Example: For a report on quantum computing, a student could prompt the AI to generate specific examples, like “Provide an overview of the recent applications of quantum computing in cryptography and its implications for future security frameworks.”
+- **Humanities Example**: In a literature review on 19th-century American literature, a researcher could use prompt engineering to summarize various thematic perspectives, such as:
+  - `Analyze how themes of freedom and identity are represented in three major works of 19th-century American literature. Compare author viewpoints.`
+
+- **STEM Example**: For a report on quantum computing, a student could prompt the AI to generate specific examples, like:
+  - `Provide an overview of the recent applications of quantum computing in cryptography and its implications for future security frameworks.`
+
+Prompt engineering thus serves a dual purpose: it helps refine responses to be directly applicable to the researcher’s needs while preserving academic rigor across multiple fields.
+
+---
+
+Each example and explanation illustrates how tailored prompts can transform generic outputs into specific, high-quality academic content. In the sections that follow, we’ll dive deeper into the skills and techniques for effective prompt engineering in academic writing.
